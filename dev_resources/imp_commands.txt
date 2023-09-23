@@ -1,0 +1,6 @@
+
+
+# Used to create the react app
+npx create-react-app client-x2-react-app
+
+
